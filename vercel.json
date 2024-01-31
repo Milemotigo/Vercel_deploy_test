@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "todoApp/api/app.py"
+      "dest": "api/app.py"
     }
   ]
 }
